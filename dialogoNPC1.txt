@@ -3,3 +3,5 @@ OLD_PC: Quiero asegurarme de que estés cómodo.
 OLD_PC: Para eso, te haré varias preguntas durante esta experiencia para asegurarme de que todo vaya como lo deseas.
 
 OLD_PC: Por ejemplo, ¿está bien este tamaño de fuente?
+
+["dialogoNPC-SI"]
