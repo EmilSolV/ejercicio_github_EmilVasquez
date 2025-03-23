@@ -4,4 +4,4 @@ OLD_PC: Para eso, te haré varias preguntas durante esta experiencia para asegur
 
 OLD_PC: Por ejemplo, ¿está bien este tamaño de fuente?
 
-["dialogoNPC-SI"]
+["dialogoNPC-SI","dialogoNPC-NO"]
